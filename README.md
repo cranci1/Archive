@@ -1,5 +1,5 @@
-# App-Archive
-An archive for my "unreleased" apps/tweaks
+# Archive
+for my "unreleased" apps/tweaks
 
 ## iOS apps:
 
