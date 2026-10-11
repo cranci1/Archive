@@ -1,0 +1,9 @@
+Package: me.cranci.blocker
+Name: Blocker
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: A simple tweak to block URLs in apps
+Maintainer: cranci
+Author: cranci
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
